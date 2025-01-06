@@ -1,8 +1,8 @@
-/* eslint-disable @next/next/no-img-element */
+
 import React from "react";
 
 const About = () => {
-  return (
+  return(
     <div>
       {/* Hero Section */}
       <div className="w-full h-auto flex flex-col md:flex-row justify-between items-center px-4 md:px-16 py-8">
